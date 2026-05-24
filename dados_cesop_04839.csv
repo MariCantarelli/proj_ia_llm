@@ -1,0 +1,1850 @@
+sexo,escolaridade,renda,regiao,idade,q1_cotas,q2_clima
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,36.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,51.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,67.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Centro-Oeste,18.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,83.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,30.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,20.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,54.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,59.0,Discorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sul,55.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sul,56.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,28.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,58.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,63.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Norte,22.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,46.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,67.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,50.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,38.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,51.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,51.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,25.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sul,62.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Centro-Oeste,49.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,36.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,36.0,Neutro,Concorda
+Feminino,Ensino Médio,Sem renda,Centro-Oeste,50.0,Discorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,66.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,46.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,27.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 10 a 20 SM,Centro-Oeste,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,28.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sul,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,27.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Nordeste,30.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,33.0,Concorda,Neutro
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,47.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,50.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,65.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,56.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,23.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,80.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,26.0,Discorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sul,44.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sudeste,24.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,38.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,21.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,66.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,44.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,67.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,42.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,16.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,42.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,45.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,61.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,36.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,80.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,60.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Norte,47.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Norte,71.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Norte,63.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,31.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,45.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,56.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,54.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,52.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,63.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,61.0,Discorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Centro-Oeste,69.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Norte,62.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,53.0,Discorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,53.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,19.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,69.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,39.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Norte,26.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Norte,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,53.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,28.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,51.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,52.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,24.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,40.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,32.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,39.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,38.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,28.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,35.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,64.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,18.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,63.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,48.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sul,25.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sul,31.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,25.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,43.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,34.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,74.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,29.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,43.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,51.0,Concorda,Concorda
+Feminino,Sem escolaridade,Sem renda,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,73.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,57.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,51.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,42.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sul,25.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,46.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,32.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,58.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,63.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,45.0,Discorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,40.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,27.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,45.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,71.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,47.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,44.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,53.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,51.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sul,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,37.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,61.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,64.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 10 a 20 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,72.0,Discorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,41.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,67.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,58.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,25.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,37.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,46.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,37.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,55.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,19.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,41.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,53.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,53.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,16.0,Neutro,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,38.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sul,31.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Centro-Oeste,37.0,Concorda,Discorda
+Feminino,Ensino Superior,Sem renda,Centro-Oeste,18.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,24.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,33.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,69.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,24.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Nordeste,35.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,61.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,55.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,53.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,56.0,Discorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,28.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,23.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,54.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,49.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,55.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,53.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Centro-Oeste,24.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,29.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,54.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 10 a 20 SM,Sudeste,47.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,58.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,61.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,51.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,27.0,Neutro,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,39.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,39.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,68.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,21.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,40.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,20.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,48.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,36.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,25.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,73.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,59.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,51.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,45.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,56.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,34.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,52.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,33.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,20.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,56.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,43.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,65.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,57.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,57.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,77.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,33.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,29.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,29.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,51.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,43.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,36.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,56.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,31.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,66.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,19.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,53.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,30.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,41.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,19.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,28.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,64.0,Concorda,Neutro
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,55.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,62.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,21.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Sudeste,58.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,58.0,Neutro,Neutro
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,58.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,43.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,57.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sul,44.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,57.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,21.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sul,42.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,31.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Centro-Oeste,60.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,65.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,57.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,18.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,52.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,27.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,55.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,36.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Centro-Oeste,20.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,50.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,25.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,41.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,72.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,44.0,Concorda,Neutro
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,36.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,50.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,22.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sul,43.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Sem renda,Sul,19.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sul,42.0,Concorda,Neutro
+Feminino,Ensino Médio,Até 1 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,24.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Norte,25.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,52.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,55.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,89.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,55.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,41.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,41.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,43.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,48.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,58.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,22.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,63.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,51.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,20.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,33.0,Concorda,Discorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,83.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,29.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,30.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,32.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,41.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,35.0,Concorda,Neutro
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,52.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,34.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,37.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Centro-Oeste,46.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,42.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Centro-Oeste,72.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,33.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,59.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,59.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,29.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Sudeste,23.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,33.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,67.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,57.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,37.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,31.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,26.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,39.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Norte,34.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,70.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Norte,28.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,34.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Norte,50.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 5 a 10 SM,Sul,42.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,23.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 5 a 10 SM,Sul,79.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,45.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,34.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,55.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,33.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,61.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,36.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,40.0,Neutro,Discorda
+Masculino,Ensino Superior,Sem renda,Nordeste,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,50.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,32.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,19.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,51.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,48.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,51.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,52.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,25.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sul,35.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,31.0,Neutro,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sudeste,41.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Discorda
+Feminino,Sem escolaridade,Sem renda,Norte,38.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,59.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,57.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Nordeste,36.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,47.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,34.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,26.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,25.0,Neutro,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,47.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,40.0,Neutro,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,68.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Sudeste,19.0,Concorda,Concorda
+Masculino,Sem escolaridade,Mais de 1 a 2 SM,Sul,53.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,27.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,40.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,27.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,76.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,21.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,22.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,30.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,57.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,63.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Norte,38.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,37.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Norte,54.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,38.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,58.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,57.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,40.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,38.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,77.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Centro-Oeste,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,71.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,47.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,54.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,41.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,29.0,Discorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Centro-Oeste,40.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,29.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Centro-Oeste,62.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,21.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,34.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Norte,60.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,54.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Sul,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,32.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,59.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,55.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,61.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,21.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,18.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,61.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,60.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,60.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,37.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,24.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,58.0,Discorda,Discorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Nordeste,31.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,26.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,48.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,41.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,45.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,34.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,67.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,45.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,26.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,34.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,20.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Neutro,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,74.0,Discorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,48.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,58.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,72.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,41.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,19.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,42.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Norte,39.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,24.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,60.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,61.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Sudeste,55.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 5 a 10 SM,Nordeste,53.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,45.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,24.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,45.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,35.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,57.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,63.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 20 SM,Sudeste,34.0,Neutro,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,19.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,68.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Nordeste,19.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,48.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,29.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,22.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,31.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Sul,75.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,65.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,41.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,66.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,48.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,25.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,63.0,Concorda,Neutro
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,78.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,27.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,21.0,Discorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,55.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,42.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,58.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,64.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Nordeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,37.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,27.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,36.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,66.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,67.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Norte,23.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,29.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,21.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,31.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,31.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sul,36.0,Discorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,26.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,34.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,40.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,26.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,16.0,Concorda,Discorda
+Feminino,Ensino Superior,Sem renda,Nordeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,66.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,34.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,29.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,53.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sudeste,35.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,70.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,24.0,Neutro,Neutro
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,26.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,65.0,Discorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,29.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,25.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,42.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,25.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,59.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,66.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,31.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Centro-Oeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,53.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,49.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,59.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,30.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,60.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,53.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,76.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,56.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,29.0,Discorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,24.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,60.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,44.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,33.0,Concorda,Neutro
+Feminino,Ensino Médio,Até 1 SM,Sul,22.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,51.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,34.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,26.0,Discorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,83.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,46.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,40.0,Discorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,32.0,Discorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,29.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,31.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,65.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,23.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,37.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sul,30.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,36.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sul,32.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,22.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,65.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,41.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,37.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,23.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,61.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,31.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,46.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sudeste,65.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,63.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,50.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,16.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,42.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,58.0,Discorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,47.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,60.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,24.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,20.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Neutro
+Feminino,Ensino Médio,Até 1 SM,Nordeste,33.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,29.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,38.0,Concorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,52.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Nordeste,59.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,31.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,31.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,47.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,61.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,22.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,22.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,29.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Sudeste,21.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,36.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,25.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 5 a 10 SM,Sudeste,60.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,56.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sudeste,25.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,51.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,30.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Norte,51.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,25.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,48.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,35.0,Concorda,Neutro
+Feminino,Ensino Superior,Até 1 SM,Sul,27.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,47.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,63.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,61.0,Discorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,38.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sul,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,25.0,Neutro,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,20.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,41.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,79.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,28.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,47.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,36.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,36.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,74.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,57.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,53.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,21.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sul,16.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,21.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,48.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,20.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,50.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,29.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,19.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,37.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,21.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,22.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,44.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,48.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,42.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,55.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,49.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,63.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,33.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,20.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,20.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Norte,30.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Norte,62.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,52.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,45.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,56.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,68.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,44.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,40.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,33.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,62.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,24.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,29.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,65.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,60.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,26.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,60.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,60.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,34.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,57.0,Discorda,Concorda
+Masculino,Ensino Médio,Sem renda,Sudeste,19.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,26.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,37.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,32.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,18.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,46.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,63.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,76.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,47.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,74.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Sul,18.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Norte,34.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,46.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,38.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 20 SM,Sudeste,40.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,28.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,21.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,41.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,75.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Sudeste,25.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,27.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,30.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,36.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,37.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Sul,27.0,Neutro,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,69.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,18.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,40.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,52.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sul,26.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,30.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,44.0,Discorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,18.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Sul,20.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 20 SM,Sudeste,51.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Norte,48.0,Concorda,Neutro
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,33.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,31.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,77.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,53.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,18.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sul,37.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sul,61.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Norte,31.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,41.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,34.0,Concorda,Neutro
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sudeste,34.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,70.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,43.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,35.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,49.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,27.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,43.0,Concorda,Neutro
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,28.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,33.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,20.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,51.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,61.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,70.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,68.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,45.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,41.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,36.0,Discorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,62.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,52.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,29.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,32.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,46.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,27.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,48.0,Discorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,62.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,61.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,58.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,62.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,32.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,52.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,56.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Sudeste,64.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,20.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,31.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,22.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Centro-Oeste,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,30.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,58.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,43.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,18.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,67.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,33.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,53.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,38.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,21.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,32.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,43.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Norte,48.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Norte,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,46.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sul,27.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,54.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,58.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Nordeste,26.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,29.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,33.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,66.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,66.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,46.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,48.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,36.0,Concorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Norte,57.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,49.0,Concorda,Neutro
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,63.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,18.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,40.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,37.0,Concorda,Discorda
+Masculino,Sem escolaridade,Sem renda,Nordeste,61.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,46.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,23.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,46.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sul,51.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,18.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,36.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,55.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sul,29.0,Concorda,Neutro
+Feminino,Ensino Fundamental,Até 1 SM,Norte,40.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,19.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Norte,38.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,32.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,41.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,50.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,65.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,61.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,34.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,43.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,30.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,24.0,Concorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Centro-Oeste,51.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,31.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,77.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,25.0,Concorda,Discorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,36.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,24.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,27.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,39.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,21.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,19.0,Concorda,Neutro
+Feminino,Ensino Médio,Até 1 SM,Norte,66.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,46.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,49.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,59.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,38.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,35.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,75.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,32.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,52.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sul,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,53.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sul,43.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,48.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,33.0,Neutro,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sul,30.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,50.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,23.0,Neutro,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,30.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,46.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,82.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,42.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,33.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,28.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Norte,17.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Norte,23.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Norte,20.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,32.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,30.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sudeste,28.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Centro-Oeste,24.0,Neutro,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,20.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,30.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,55.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,83.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,65.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,29.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,30.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,43.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,17.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,61.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,50.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,45.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,47.0,Discorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,33.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,54.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,20.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,74.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,27.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,28.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,73.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,69.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,57.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,26.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,66.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,49.0,Discorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,29.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,65.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,31.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 20 SM,Nordeste,44.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,23.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,46.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,82.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,57.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sul,62.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,18.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,31.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,60.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Norte,48.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,19.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,48.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,56.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,34.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,33.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Sudeste,76.0,Neutro,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,45.0,Discorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,67.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,51.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,22.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,26.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,55.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,39.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,67.0,Neutro,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,25.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,63.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sul,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,33.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,35.0,Concorda,Neutro
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sul,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sul,36.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Sul,74.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sul,24.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Sem renda,Sudeste,49.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sul,40.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Sul,54.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Sudeste,45.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,28.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,38.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Norte,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,27.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,35.0,Discorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,40.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,51.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,51.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,51.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,62.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,21.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,42.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,20.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,20.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,34.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sul,62.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,59.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,43.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,26.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,65.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,28.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,48.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,25.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,48.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,40.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,46.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,26.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,29.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,20.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Norte,17.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,41.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,23.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,25.0,Concorda,Neutro
+Feminino,Ensino Superior,Sem renda,Sudeste,34.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,45.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sul,17.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,52.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,42.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,33.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,65.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,72.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,73.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,19.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,54.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,33.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,54.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,30.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,59.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,28.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,47.0,Discorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,45.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,61.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,49.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Nordeste,29.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,50.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,28.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,66.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,29.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Sudeste,43.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,76.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,80.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,65.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,37.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,39.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,63.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,59.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,23.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Norte,27.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,67.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,23.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,45.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Norte,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,52.0,Concorda,Concorda
+Masculino,Ensino Superior,Sem renda,Sudeste,23.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,69.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,51.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,39.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,64.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,59.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Norte,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,36.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,55.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,40.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,32.0,Discorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,65.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,29.0,Concorda,Discorda
+Feminino,Ensino Superior,Sem renda,Sul,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,73.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,67.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,39.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,58.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,53.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sul,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,45.0,Discorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,62.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Norte,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Norte,18.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,23.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,30.0,Discorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,53.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,63.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,50.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,50.0,Concorda,Concorda
+Masculino,Ensino Superior,Sem renda,Nordeste,19.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,29.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,37.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Centro-Oeste,35.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,39.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sul,38.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,65.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,54.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,72.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,49.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,55.0,Neutro,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,68.0,Concorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Sul,50.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,21.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,46.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,18.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Sul,72.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,23.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,76.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,42.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,41.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,49.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Norte,32.0,Concorda,Neutro
+Masculino,Ensino Médio,Até 1 SM,Sudeste,68.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,36.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,59.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,23.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,58.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,51.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,52.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,45.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,47.0,Concorda,Neutro
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,51.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,58.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,26.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,67.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,24.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sudeste,16.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,21.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,31.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sul,45.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,24.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,55.0,Discorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,36.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,44.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,57.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Norte,26.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Norte,42.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,43.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,36.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,43.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,57.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,54.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Nordeste,18.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,33.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,38.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,40.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Neutro
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,33.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,42.0,Neutro,Neutro
+Masculino,Ensino Fundamental,Mais de 10 a 20 SM,Sudeste,62.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 5 a 10 SM,Sudeste,48.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 10 a 20 SM,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 10 a 20 SM,Sudeste,48.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 10 a 20 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,44.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 10 a 20 SM,Sudeste,36.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,37.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,70.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,52.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,40.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,23.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,70.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,57.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,47.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sul,23.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,45.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sul,25.0,Neutro,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,63.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,40.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,40.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Norte,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Centro-Oeste,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,20.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sudeste,67.0,Neutro,Discorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,16.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,35.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,24.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,37.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,27.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,42.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,35.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,36.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,30.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,34.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,54.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,51.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,63.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,65.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,44.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,34.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,54.0,Concorda,Concorda
+Masculino,Ensino Superior,Sem renda,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,55.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,40.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,42.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,21.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,51.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,32.0,Concorda,Discorda
+Masculino,Ensino Superior,Sem renda,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,53.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,42.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Norte,55.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,52.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,46.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,45.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,28.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,26.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,32.0,Neutro,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,48.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,20.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,62.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,34.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,43.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Norte,18.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Norte,36.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Centro-Oeste,20.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Centro-Oeste,26.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,76.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sudeste,29.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Norte,42.0,Concorda,Neutro
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,34.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,48.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,62.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,48.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,20.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,32.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,41.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,38.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,18.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,51.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,28.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,74.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,64.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,30.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,18.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,62.0,Neutro,Discorda
+Feminino,Ensino Superior,Mais de 20 SM,Sudeste,63.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,59.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,68.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,37.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,60.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,24.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,27.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,33.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,28.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Nordeste,21.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,44.0,Discorda,Discorda
+Masculino,Sem escolaridade,Até 1 SM,Norte,44.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,48.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,52.0,Discorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Sudeste,59.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,37.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,36.0,Neutro,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,20.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Mais de 5 a 10 SM,Sudeste,36.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,61.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,51.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,31.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,19.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,28.0,Neutro,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,32.0,Neutro,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,74.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,61.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,26.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,43.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,50.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 10 a 20 SM,Sudeste,61.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,41.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,56.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,40.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,36.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,17.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,18.0,Concorda,Discorda
+Feminino,Sem escolaridade,Até 1 SM,Norte,60.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Centro-Oeste,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,27.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Centro-Oeste,26.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,73.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,27.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,65.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,19.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,53.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,45.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,36.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Sem renda,Norte,45.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,39.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,54.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 20 SM,Sudeste,82.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,55.0,Concorda,Concorda
+Masculino,Sem escolaridade,Mais de 2 a 5 SM,Sudeste,66.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,45.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,30.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,20.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Norte,18.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,60.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,24.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Centro-Oeste,58.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sul,46.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sul,28.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Norte,28.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,51.0,Concorda,Discorda
+Masculino,Sem escolaridade,Até 1 SM,Norte,82.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,24.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,28.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,54.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Centro-Oeste,45.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,34.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,66.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,51.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,74.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,46.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,27.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,49.0,Discorda,Concorda
+Masculino,Ensino Médio,Sem renda,Sul,24.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sul,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,49.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,60.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,68.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,65.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Norte,24.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,24.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,27.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,57.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,19.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,61.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,32.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sul,40.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,29.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,29.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Norte,18.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,38.0,Concorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Nordeste,66.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,21.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,22.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,32.0,Discorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,41.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,43.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,17.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,40.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,55.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Norte,25.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,18.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,41.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,42.0,Concorda,Discorda
+Masculino,Ensino Superior,Até 1 SM,Norte,45.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,58.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sudeste,29.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Sudeste,17.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Norte,49.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,41.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,20.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Norte,48.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,60.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Nordeste,44.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,21.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Nordeste,59.0,Concorda,Concorda
+Feminino,Sem escolaridade,Sem renda,Nordeste,34.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,32.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,45.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,86.0,Discorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,38.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,25.0,Concorda,Concorda
+Feminino,Sem escolaridade,Sem renda,Sudeste,49.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,73.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,25.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,33.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Nordeste,42.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,33.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,22.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,52.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,41.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,62.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,41.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,70.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,63.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,46.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,34.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,43.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,27.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Centro-Oeste,45.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,70.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,36.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,68.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,40.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Norte,35.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Norte,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,26.0,Neutro,Neutro
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,56.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,48.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Sem renda,Sudeste,27.0,Discorda,Concorda
+Feminino,Ensino Médio,Sem renda,Centro-Oeste,17.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Norte,45.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,66.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,51.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,43.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,17.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 5 a 10 SM,Sudeste,52.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,74.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,38.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,30.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,19.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,67.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,40.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,20.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,37.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,26.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,59.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,60.0,Discorda,Discorda
+Feminino,Ensino Superior,Sem renda,Sudeste,51.0,Discorda,Neutro
+Feminino,Ensino Superior,Sem renda,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sudeste,31.0,Neutro,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,68.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,18.0,Neutro,Neutro
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,63.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,65.0,Neutro,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,56.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,58.0,Neutro,Neutro
+Feminino,Ensino Fundamental,Sem renda,Sudeste,54.0,Neutro,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,58.0,Discorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,68.0,Concorda,Neutro
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,48.0,Concorda,Neutro
+Feminino,Ensino Superior,Sem renda,Sudeste,31.0,Neutro,Neutro
+Feminino,Ensino Médio,Até 1 SM,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,27.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,37.0,Concorda,Neutro
+Feminino,Ensino Superior,Sem renda,Sudeste,53.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,63.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,47.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,55.0,Neutro,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,58.0,Discorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sudeste,20.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,33.0,Concorda,Discorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,19.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,47.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,55.0,Concorda,Neutro
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,48.0,Neutro,Neutro
+Feminino,Ensino Fundamental,Sem renda,Sudeste,33.0,Neutro,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,66.0,Discorda,Neutro
+Feminino,Ensino Superior,Sem renda,Sudeste,23.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,55.0,Discorda,Neutro
+Masculino,Ensino Superior,Até 1 SM,Sudeste,22.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,32.0,Concorda,Neutro
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,47.0,Neutro,Neutro
+Feminino,Ensino Superior,Sem renda,Sudeste,26.0,Neutro,Concorda
+Masculino,Ensino Fundamental,Sem renda,Sudeste,22.0,Neutro,Neutro
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,59.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,43.0,Neutro,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,24.0,Discorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,33.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,30.0,Neutro,Discorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,24.0,Discorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,22.0,Neutro,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,57.0,Neutro,Neutro
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,38.0,Neutro,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,32.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,20.0,Neutro,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,58.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sudeste,23.0,Discorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,33.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,45.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,42.0,Discorda,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,59.0,Discorda,Neutro
+Feminino,Ensino Fundamental,Sem renda,Sudeste,39.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,23.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,34.0,Neutro,Neutro
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,24.0,Neutro,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,58.0,Discorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,41.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,32.0,Concorda,Discorda
+Feminino,Ensino Médio,Sem renda,Sudeste,20.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,36.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Sudeste,55.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,22.0,Concorda,Neutro
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,27.0,Discorda,Neutro
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,39.0,Neutro,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,19.0,Neutro,Discorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,32.0,Neutro,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,49.0,Neutro,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,39.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,56.0,Neutro,Neutro
+Feminino,Ensino Fundamental,Sem renda,Sudeste,25.0,Discorda,Neutro
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,58.0,Neutro,Neutro
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,35.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 20 SM,Centro-Oeste,43.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,30.0,Neutro,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sudeste,28.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Nordeste,62.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,58.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,37.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Nordeste,54.0,Discorda,Neutro
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,40.0,Discorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sul,23.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,61.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,33.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,25.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,68.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,32.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 5 a 10 SM,Sul,55.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,57.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,29.0,Concorda,Concorda
+Masculino,Ensino Médio,Sem renda,Nordeste,41.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,64.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,29.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,34.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,24.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,35.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,49.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,25.0,Concorda,Concorda
+Masculino,Sem escolaridade,Mais de 1 a 2 SM,Nordeste,58.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,23.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,47.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,33.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,79.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,62.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sudeste,31.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Centro-Oeste,44.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,40.0,Concorda,Discorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,64.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,73.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,22.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Norte,64.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Norte,68.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,53.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,40.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,56.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,46.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Nordeste,48.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Nordeste,35.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,42.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Norte,32.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,50.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,32.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Centro-Oeste,51.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Sem renda,Norte,50.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Norte,34.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Sul,22.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,50.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,50.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,45.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,56.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,35.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Norte,34.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,54.0,Concorda,Neutro
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,33.0,Concorda,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,34.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Norte,66.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Norte,51.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,58.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,29.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,43.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Norte,28.0,Concorda,Concorda
+Masculino,Sem escolaridade,Até 1 SM,Nordeste,42.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,29.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,48.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,21.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 1 a 2 SM,Centro-Oeste,38.0,Neutro,Concorda
+Feminino,Ensino Superior,Mais de 20 SM,Sudeste,32.0,Concorda,Discorda
+Masculino,Ensino Médio,Sem renda,Centro-Oeste,45.0,Neutro,Discorda
+Masculino,Ensino Médio,Sem renda,Sul,19.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Sul,19.0,Discorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,52.0,Discorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sul,65.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,50.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,31.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,38.0,Neutro,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,36.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,26.0,Concorda,Discorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,46.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,59.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,61.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,25.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Norte,21.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Até 1 SM,Sul,71.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sul,69.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sul,48.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sul,47.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 10 a 20 SM,Sul,61.0,Neutro,Concorda
+Masculino,Ensino Superior,Até 1 SM,Nordeste,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sul,18.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Nordeste,22.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,53.0,Concorda,Concorda
+Feminino,Ensino Superior,Até 1 SM,Sudeste,41.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Sul,70.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,51.0,Neutro,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Nordeste,42.0,Discorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,35.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,60.0,Neutro,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,21.0,Discorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,57.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,26.0,Neutro,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Nordeste,61.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,26.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Norte,43.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,34.0,Concorda,Discorda
+Feminino,Ensino Superior,Sem renda,Sul,65.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,24.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Sul,61.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sul,51.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Norte,31.0,Discorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,24.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Norte,27.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,60.0,Neutro,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,35.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,42.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,47.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sul,48.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Nordeste,26.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,42.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,27.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,48.0,Concorda,Discorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,19.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,27.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Sudeste,66.0,Concorda,Concorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,36.0,Concorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,20.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Sul,44.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sul,59.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Norte,37.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Norte,60.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Nordeste,36.0,Concorda,Discorda
+Feminino,Ensino Médio,Até 1 SM,Nordeste,30.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Centro-Oeste,35.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,33.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,75.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Centro-Oeste,30.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Nordeste,18.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Nordeste,45.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 1 a 2 SM,Nordeste,22.0,Concorda,Concorda
+Feminino,Ensino Superior,Mais de 2 a 5 SM,Sul,26.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,57.0,Discorda,Concorda
+Feminino,Ensino Fundamental,Sem renda,Sul,26.0,Discorda,Concorda
+Feminino,Sem escolaridade,Até 1 SM,Centro-Oeste,73.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,56.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,38.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sul,39.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Centro-Oeste,45.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Sudeste,20.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,34.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sul,58.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,76.0,Discorda,Concorda
+Masculino,Ensino Fundamental,Até 1 SM,Centro-Oeste,50.0,Concorda,Concorda
+Feminino,Ensino Superior,Sem renda,Sul,22.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Sem renda,Norte,31.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Nordeste,56.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Nordeste,31.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sul,43.0,Concorda,Neutro
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,52.0,Concorda,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,64.0,Concorda,Concorda
+Feminino,Ensino Fundamental,Até 1 SM,Norte,24.0,Concorda,Discorda
+Feminino,Ensino Fundamental,Até 1 SM,Sudeste,62.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 2 a 5 SM,Sudeste,37.0,Concorda,Concorda
+Masculino,Ensino Médio,Até 1 SM,Centro-Oeste,24.0,Concorda,Concorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Centro-Oeste,40.0,Neutro,Concorda
+Masculino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,43.0,Neutro,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,27.0,Concorda,Concorda
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sul,55.0,Concorda,Discorda
+Masculino,Ensino Médio,Mais de 5 a 10 SM,Sudeste,46.0,Concorda,Concorda
+Feminino,Ensino Médio,Sem renda,Sudeste,52.0,Neutro,Neutro
+Masculino,Ensino Superior,Mais de 2 a 5 SM,Sudeste,42.0,Discorda,Discorda
+Masculino,Ensino Fundamental,Mais de 2 a 5 SM,Sudeste,67.0,Neutro,Discorda
+Feminino,Ensino Médio,Mais de 1 a 2 SM,Sudeste,66.0,Concorda,Concorda
+Masculino,Ensino Fundamental,Mais de 1 a 2 SM,Sudeste,46.0,Concorda,Discorda
+Feminino,Ensino Superior,Mais de 5 a 10 SM,Sudeste,41.0,Concorda,Discorda
