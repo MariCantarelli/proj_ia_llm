@@ -1,86 +1,69 @@
 # Roteiro de Fala — Vídeo do Projeto (máx. 6 min)
 
 **Projeto:** Simulação de Opinião Pública com LLMs  
-**Grupo:** Matheus Henrique de Oliveira Santos e Marina Cantarelli Barroca  
-**Referência de tempo por slide:** ~1 min cada
+**Grupo:** Matheus Henrique de Oliveira Santos e Marina Cantarelli Barroca
 
 ---
 
-## Slide 1 — Apresentação do Projeto (0:00 – 0:45)
+## Slide 1 — Apresentação (0:00 – 0:45)
 
-> "Nesse trabalho a gente usou inteligência artificial pra simular respostas de uma pesquisa de opinião pública. A ideia vem de um artigo que propõe usar LLMs como o que ele chama de 'silício sociológico': você dá o perfil de uma pessoa pro modelo, e ele tenta responder como essa pessoa responderia numa pesquisa real."
+"Nesse trabalho a gente usou inteligência artificial pra simular respostas de uma pesquisa de opinião pública. A ideia vem de um artigo que propõe usar LLMs como 'silício sociológico': você dá o perfil de uma pessoa pro modelo, e ele tenta responder como essa pessoa responderia numa pesquisa real."
 
-> "A gente usou a pesquisa 04839 do Cesop, que é do Unicamp, coletada em 2023 com 2.000 brasileiros sobre o tema de desigualdade."
+"A gente usou a pesquisa 04839 do Cesop, coletada em 2023 com 2.000 brasileiros sobre desigualdade, e testou dois modelos diferentes: o Gemini do Google e o Llama 3.3 da Meta."
 
 ---
 
 ## Slide 2 — A Pesquisa e as Questões (0:45 – 1:30)
 
-> "A pesquisa trata da percepção dos brasileiros sobre desigualdade. A gente escolheu duas questões específicas:"
+"A gente escolheu duas questões. A primeira é sobre cotas nas universidades: 'A maior presença de pessoas negras e indígenas por meio de cotas é necessária para reduzir a desigualdade?' As opções eram Concorda, Neutro ou Discorda."
 
-> "A primeira é sobre cotas nas universidades: 'A maior presença de pessoas negras e indígenas por meio de cotas é necessária para reduzir a desigualdade?' As opções eram Concorda, Neutro ou Discorda."
+"A segunda é sobre mudanças climáticas: 'Eventos extremos afetam mais pessoas em situação de pobreza?' Mesmas opções."
 
-> "A segunda é sobre mudanças climáticas: 'Eventos extremos como chuvas e secas afetam mais pessoas em situação de pobreza?' Mesmas opções."
-
-> "A escolha foi intencional: são questões onde o perfil social da pessoa, escolaridade, renda, região, tende a influenciar bastante a resposta."
+"A escolha foi intencional: são questões onde escolaridade, renda e região tendem a influenciar bastante a resposta."
 
 ---
 
-## Slide 3 — Preparação dos Dados (1:30 – 2:15)
+## Slide 3 — Preparação dos Dados e Otimização (1:30 – 2:15)
 
-> "Do dataset original com 2.000 respondentes, depois de remover valores ausentes e respostas em branco, ficamos com 1.849 registros válidos."
+"Do dataset original com 2.000 respondentes, depois de remover valores ausentes, ficamos com 1.849 registros válidos."
 
-> "As variáveis de perfil que a gente usou foram: sexo, escolaridade agrupada em quatro níveis, renda pessoal em salários mínimos e região do Brasil."
+"As variáveis de perfil foram sexo, escolaridade em quatro níveis, renda em salários mínimos e região."
 
-> "As respostas originais tinham cinco opções — de 'Concorda totalmente' a 'Discorda totalmente'. A gente simplificou para três: Concorda, Neutro e Discorda. Isso deixou o problema mais tratável e a comparação mais clara."
-
----
-
-## Slide 4 — O Modelo e os Prompts (2:15 – 3:30)
-
-> "O modelo escolhido foi o Gemini 1.5 Flash, via Google AI Studio no tier gratuito. A escolha foi por disponibilidade, custo zero e boa capacidade de seguir instruções em português."
-
-> "Pra cada respondente, a gente montou um prompt com o perfil dele e as duas perguntas. Vou mostrar um exemplo:"
-
-> *(mostrar o prompt na tela)*
-
-> "Sexo feminino, 36 anos, ensino médio, renda de 1 a 2 salários mínimos, Centro-Oeste. O modelo recebe isso e responde no formato Q1 e Q2. Se a resposta vier fora das opções válidas, é descartada como nula."
-
-> "Rodamos 3 repetições com amostras diferentes de 200 respondentes cada, pra medir se o modelo é estável ou varia muito entre execuções."
+"Pra otimizar o uso da API, em vez de fazer uma chamada por respondente, a gente mandou 20 perfis em cada chamada e pediu pro modelo responder tudo em JSON. Isso reduziu 200 chamadas pra 10 por rodada."
 
 ---
 
-## Slide 5 — Resultados (3:30 – 5:00)
+## Slide 4 — Modelos Testados (2:15 – 3:15)
 
-> *(preencher com os valores reais após rodar o notebook)*
+"A gente começou com o Gemini 2.5 Flash Lite do Google, mas a quota do free tier estava em apenas 20 requisições por dia, abaixo do limite documentado de mil. Conseguimos rodar só 2 das 3 rodadas planejadas."
 
-> "Os resultados mostraram uma acurácia média de [X%] na Q1 e [Y%] na Q2. A variância entre as três rodadas foi de [Z], o que indica que o modelo é [estável / instável]."
+"Migramos pro Groq, que roda o Llama 3.3 de 70 bilhões de parâmetros. O free tier deles é muito mais generoso, 30 requisições por minuto sem limite diário restritivo. Com isso a gente conseguiu rodar as 3 rodadas completas."
 
-> "Olhando a distribuição, o modelo [acertou / superestimou / subestimou] a proporção de respostas 'Concorda' na questão de cotas. Na Q2, sobre mudanças climáticas, a aderência foi [melhor / pior]."
+"A mudança de código foi mínima: só substituir a biblioteca cliente e o formato da chamada da API."
 
-> "Quando a gente quebrou por escolaridade, [grupo X] teve acurácia maior. Isso faz sentido porque [observação baseada nos dados]."
+---
 
-> *(mostrar os gráficos de barras e a matriz de confusão)*
+## Slide 5 — Resultados Principais (3:15 – 5:00)
+
+"Os resultados foram interessantes e contraintuitivos. À primeira vista, o Gemini parecia melhor: acurácia de 80% na Q1 contra 49% do Llama. Mas olhando a distribuição das respostas, a história muda completamente."
+
+"O Gemini convergia quase totalmente pra opção majoritária. Na Q2 do clima, ele respondeu 100% Concorda. O Llama também colapsou, mas respondeu 95% Concorda. Ou seja, a acurácia alta do Gemini era um efeito do desbalanceamento, não capacidade real de simulação."
+
+"Quebrando por escolaridade, encontramos o achado mais importante: Ensino Superior teve 83% de acurácia, Ensino Médio 62%, Ensino Fundamental 25% e Sem escolaridade 0%. Isso mostra um viés sociodemográfico claro: o modelo simula muito melhor perfis bem representados nos dados de treino."
+
+"Por região, Norte teve só 27% de acurácia, o que reflete a sub-representação dessa região tanto no treino do modelo quanto na própria amostra da pesquisa."
 
 ---
 
 ## Slide 6 — Conclusão (5:00 – 6:00)
 
-> *(preencher com base nos resultados reais)*
+"As três principais conclusões são: primeiro, todos os LLMs testados têm viés de classe majoritária, dão a resposta mais comum quando a base é desbalanceada. Segundo, existe um viés sociodemográfico claro: o modelo simula muito pior perfis de baixa escolaridade e regiões menos representadas. Terceiro, métricas simples como acurácia podem enganar: o Gemini parecia melhor numericamente, mas o Llama foi qualitativamente mais útil por distribuir mais as respostas."
 
-> "De forma geral, o LLM conseguiu capturar [tendência geral], mas teve dificuldade com [grupo ou questão específica]."
+"Vale destacar também uma limitação prática: quotas dos free tiers de LLM variam muito e mudam sem aviso. A gente teve que migrar de Gemini pra Groq no meio do projeto. Pra trabalhos acadêmicos em escala, é importante ter flexibilidade."
 
-> "A principal limitação é que o modelo foi treinado com dados em inglês majoritariamente, então pode ter viés ao simular perfis de brasileiros de baixa renda ou sem escolaridade."
+"Como próximos passos, daria pra comparar com Random Forest, como o artigo de referência propõe, e usar métricas como F1 macro pra capturar melhor o desempenho em classes minoritárias."
 
-> "Como próximo passo, seria interessante testar com um modelo fine-tuned em dados brasileiros, ou comparar com um Random Forest como o artigo base sugere."
-
-> "O código, os dados e o artigo estão disponíveis no repositório do GitHub. Obrigado."
+"O código, os dados e o artigo estão no GitHub. Obrigado."
 
 ---
 
-## Dicas de gravação
-
-- Grave a tela do Colab rodando enquanto fala
-- Não precisa aparecer, só a tela com o notebook e os gráficos já resolve
-- Fala devagar nos slides 4 e 5, são os mais densos
-- 6 minutos é folgado, não precisa correr
